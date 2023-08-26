@@ -17,5 +17,6 @@ buildscript {
     dependencies {
         classpath("com.android.tools.build:gradle")
         classpath("com.facebook.react:react-native-gradle-plugin")
+        // implementation group: 'javax.xml.bind', name: 'jaxb-api', version: '2.3.1'
     }
 }
